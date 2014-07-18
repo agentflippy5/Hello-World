@@ -7,8 +7,6 @@ Petit Basic
 Python
 HTML
 GAS
-Arduino IDE
 Processing Java -or- Javascript
 Lego EV3
-Lego NXT-G
 Basic Fortran
