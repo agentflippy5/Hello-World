@@ -8,5 +8,4 @@ Python
 HTML
 GAS
 Processing Java -or- Javascript
-Lego EV3
 Basic Fortran
