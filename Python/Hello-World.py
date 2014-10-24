@@ -3,4 +3,6 @@ print ("Hi, " + un + "!")
 uos = INPUT("What is your favorite OS to code on?")
 up = INPUT("What is your favorite program to code with?")
 print ("Cool! I like using " + up + " on " + uos + "too!")
+if up.lower == "python":
+  print ("Did you know this program was written in python?")
 x = INPUT("Press enter to quit.")
