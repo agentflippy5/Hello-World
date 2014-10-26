@@ -1,8 +1,8 @@
-un = INPUT("What is your name?")
+un = input("What is your name? ")
 print ("Hi, " + un + "!")
-uos = INPUT("What is your favorite OS to code on?")
-up = INPUT("What is your favorite program to code with?")
+uos = input("What is your favorite OS to code on? ")
+up = input("What is your favorite program to code with?  ")
 print ("Cool! I like using " + up + " on " + uos + "too!")
 if up.lower == "python":
   print ("Did you know this program was written in python?")
-x = INPUT("Press enter to quit.")
+x = input("Press enter to quit.")
