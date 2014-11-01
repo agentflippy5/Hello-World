@@ -1,1 +1,1 @@
-Open with the orbBasic Android or iOS app from Orbotitx or your favorite text editer.
+Open with the orbBasic Android or iOS app from Orbotitx or your favorite text editer. Search orbBasic in the App Store or Google Play.

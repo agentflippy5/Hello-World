@@ -1,1 +1,1 @@
-Readme inside project. Update coming soon.
+Readme inside project. Update coming soon. Download from mindstorms.lego.com.

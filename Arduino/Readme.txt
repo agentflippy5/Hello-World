@@ -1,1 +1,1 @@
-Instructions as soon as bugs are fixed!
+Instructions as soon as bugs are fixed! Download Arduino IDE from arduino.cc.

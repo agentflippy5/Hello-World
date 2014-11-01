@@ -1,1 +1,1 @@
-Open is Alice 2.3, then press run. Click the rabbit to make him say hi and wave.
+Open is Alice 2.3, then press run. Click the rabbit to make him say hi and wave. Download Alice 2.3 from alice.org.

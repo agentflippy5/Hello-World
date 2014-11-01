@@ -1,1 +1,1 @@
-Coming soon!
+More info after bugs are fixed! Open with any Python program. Download IDLE from python.org.

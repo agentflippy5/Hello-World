@@ -1,0 +1,1 @@
+Download Petit Computer from the DSi Shop the Nintendo e-Shop. Open QR.jpeg and scan with the app.

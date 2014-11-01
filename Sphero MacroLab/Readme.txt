@@ -1,3 +1,3 @@
 This is the "Hello Wolrd" equivelent for the Sphero MacroLab available for Android on Google Play at https://play.google.com/store/apps/details?id=com.orbotix.macrolab and for iOS on iTunes at http://itunes.apple.com/be/app/sphero-macrolab/id519917219?mt=8
 
-Download the app to your phone and locate the save folder; then download this and put it there. Put Sphero in an open area and press play. Sphero should draw the word "Hi" and then flash colors.
+Download the app to your phone and locate the save folder; then download Hi.sphero and put it there. Put Sphero in an open area, open the app, and press play. Sphero should draw the word "Hi" and then flash colors.
