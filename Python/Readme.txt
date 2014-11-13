@@ -1,1 +1,1 @@
-More info after bugs are fixed! Open with any Python program. Download IDLE from python.org.
+Open with any Python 3.4 program. Download IDLE from python.org. ***Will not work with Python 2.7***
